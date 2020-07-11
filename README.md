@@ -1,6 +1,7 @@
 <a href="https://covid19datahub.io"><img src="https://storage.covid19datahub.io/logo.svg" align="right" height="128"/></a>
 
 # Scala Interface to COVID-19 Data Hub
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.02376/status.svg)](https://doi.org/10.21105/joss.02376)
 
 For Scala you can use following singleton object `Fetcher`. It uses components `java.net.URL` from Java Platform SE and `scala.io.Source` from Scala Standard Library.
 
